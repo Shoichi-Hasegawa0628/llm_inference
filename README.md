@@ -1,4 +1,4 @@
-# 'study_gpt3' Package
+# 'llm_inference' Package
 
 *   Maintainer: Shoichi Hasegawa ([hasegawa.shoichi@em.ci.ritsumei.ac.jp](mailto:hasegawa.shoichi@em.ci.ritsumei.ac.jp)).
 *   Author: Shoichi Hasegawa ([hasegawa.shoichi@em.ci.ritsumei.ac.jp](mailto:hasegawa.shoichi@em.ci.ritsumei.ac.jp)).
@@ -13,12 +13,23 @@
 
 ## Setup
 
+```shell
+pip install openai
+```
 
+Please input your OpenAI API key to `gpt3_inference.py`
 
 ## Launch
+```shell
+python gpt3_inference.py
+```
+
 
 ## Files
 
+- `README.md`
+- `gpt3_inference.py`
+- `__init__.py`
 
 ## References
 
