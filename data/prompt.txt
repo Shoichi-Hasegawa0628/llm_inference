@@ -1,0 +1,11 @@
+Bath slipper is in the bathroom.
+Plate is in the kitchen.
+Tea is in the kitchen.
+Car toy is in the living.
+Sheep doll is in the bedroom.
+
+Q: Towel is in the
+A: bathroom
+
+Q: Green Tea is in the
+A: kitchen
